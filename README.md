@@ -1,1 +1,1 @@
-Web Based Database Management System for celebrities to create new NFTs and track the Statistics and their fans to manage their NFT holdings. Built using a Python Flask Server.
+Python Flask-based web application for celebrities to generate new NFTs, monitor performance statistics, and enable fans to manage their NFT collections.
